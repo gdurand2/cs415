@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/WB_healthbar.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/Score.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/potion/source/BP_Potion.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/potion/source/Cork.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/potion/source/Glass.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/potion/source/PotionA.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/potion/textures/PotionA_Cork_AO.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/potion/textures/PotionA_Cork_BaseColor.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/potion/textures/PotionA_Cork_Normal.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/potion/textures/PotionA_Cork_Roughness.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/potion/textures/PotionA_Glass_AO.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/potion/textures/PotionA_Glass_BaseColor.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/potion/textures/PotionA_Glass_Normal.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/potion/textures/PotionA_Glass_Roughness.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Enemy/source/BP_Enemy.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Enemy/textures/eye_3_tga.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Enemy/source/frip_F_export.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Enemy/source/frip_F_export_PhysicsAsset.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Enemy/source/frip_F_export_Skeleton.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Enemy/source/SHD_eye.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Enemy/source/SHD_frip.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Enemy/textures/SHD_frip_Base_Color_tga.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Enemy/textures/SHD_frip_Mixed_AO_tga.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Enemy/textures/SHD_frip_Normal_DirectX_tga.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Enemy/source/whiskers.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/C_Health.uasset",
+				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/BPFL_Health.uasset"
+			]
+		}
+	]
+}
